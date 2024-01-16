@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: "Nils Westgardh's Personal Portfolio Website",
+  title: "NilsGPT | Nils Westgardh's Resume & Portfolio Site",
   description: "Nils Westgardh is an entrepreneur and advertising professional whose resume and portfolio is a ChatGPT bot.",
   openGraph: {
     images: [
