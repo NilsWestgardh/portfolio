@@ -7,7 +7,7 @@ export default function Page() {
   useEffect(() => {
     setTimeout(() => {
       window.location.href = 'https://chat.openai.com/g/g-TXJFbP1Cg-nilsgpt';
-    }, 100);
+    }, 1000);
   }, []);
 
   return (
